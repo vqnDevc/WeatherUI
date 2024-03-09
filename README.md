@@ -1,2 +1,2 @@
 # Screenshot
-<image src="https://imgur.com/a/O3IbHSO"> 
+<img src="https://imgur.com/4gk4YVC"> 
